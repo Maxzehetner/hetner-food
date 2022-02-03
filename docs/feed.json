@@ -1,0 +1,18 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "",
+  "home_page_url": "Maxzehetner.github.io/hetner-food/",
+  "feed_url": "Maxzehetner.github.io/hetner-food/feed.json",
+  "items": [
+    {
+      "title": "Welcome to Hetner-Food",
+      "url": "Maxzehetner.github.io/hetner-food/",
+      "id": "Maxzehetner.github.io/hetner-food/",
+      "content_html": "<h1 id=\"welcome-to-hetner-food\"> Welcome to <em>Hetner-Food</em></h1>\n<p>Dere ✌️</p>\n<p><img src=\"https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&amp;w=250\" alt=\"bild1\" loading=\"lazy\"></p>\n",
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=250",
+      "date_modified": "2022-02-03T21:36:53.616Z",
+      "authors": [],
+      "tags": []
+    }
+  ]
+}

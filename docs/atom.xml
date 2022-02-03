@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+  <id>Maxzehetner.github.io/hetner-food/</id>
+  <title/>
+  <updated>2022-02-03T21:36:38.693Z</updated>
+  <generator>@mr-hope/vuepress-plugin-feed</generator>
+  <link rel="self" href="Maxzehetner.github.io/hetner-food/atom.xml"/>
+  <link rel="alternate" href="Maxzehetner.github.io/hetner-food/"/>
+  <entry>
+    <title type="html">Welcome to Hetner-Food</title>
+    <id>Maxzehetner.github.io/hetner-food/</id>
+    <link href="Maxzehetner.github.io/hetner-food/"/>
+    <updated>2022-02-03T21:36:53.616Z</updated>
+    <content type="html"><![CDATA[<h1 id="welcome-to-hetner-food"> Welcome to <em>Hetner-Food</em></h1>
+<p>Dere ✌️</p>
+<p><img src="https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&amp;w=250" alt="bild1" loading="lazy"></p>
+]]></content>
+  </entry>
+</feed>
