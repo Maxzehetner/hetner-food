@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="Maxzehetner.github.io/hetner-food/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://Maxzehetner.github.io/hetner-food/rss.xml" rel="self" type="application/rss+xml"/>
     <title></title>
-    <link>Maxzehetner.github.io/hetner-food/</link>
+    <link>https://Maxzehetner.github.io/hetner-food/</link>
     <description></description>
     <language>en-US</language>
-    <pubDate>Thu, 03 Feb 2022 21:36:38 GMT</pubDate>
-    <lastBuildDate>Thu, 03 Feb 2022 21:36:38 GMT</lastBuildDate>
+    <pubDate>Thu, 03 Feb 2022 21:43:33 GMT</pubDate>
+    <lastBuildDate>Thu, 03 Feb 2022 21:43:33 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
       <title>Welcome to Hetner-Food</title>
-      <link>Maxzehetner.github.io/hetner-food/</link>
-      <guid isPermaLink="false">Maxzehetner.github.io/hetner-food/</guid>
-      <source url="Maxzehetner.github.io/hetner-food/rss.xml">Welcome to Hetner-Food</source>
+      <link>https://Maxzehetner.github.io/hetner-food/</link>
+      <guid>https://Maxzehetner.github.io/hetner-food/</guid>
+      <source url="https://Maxzehetner.github.io/hetner-food/rss.xml">Welcome to Hetner-Food</source>
+      <pubDate>Thu, 03 Feb 2022 21:37:09 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="welcome-to-hetner-food"> Welcome to <em>Hetner-Food</em></h1>
 <p>Dere ✌️</p>
 <p><img src="https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&amp;w=250" alt="bild1" loading="lazy"></p>
