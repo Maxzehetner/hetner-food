@@ -1,0 +1,22 @@
+{
+  "name": "hetner-food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxzehetner/hetner-food.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxzehetner/hetner-food/issues"
+  },
+  "homepage": "https://github.com/Maxzehetner/hetner-food#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
